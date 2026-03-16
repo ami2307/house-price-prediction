@@ -165,13 +165,3 @@ log_sale_price = log(sale_price)               # normalize skewed target
 - **Shiny App**: Interactive prediction UI
 
 ---
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-## 🙏 Dataset Credit
-
-De Cock, D. (2011). *Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project.* Journal of Statistics Education, 19(3).
