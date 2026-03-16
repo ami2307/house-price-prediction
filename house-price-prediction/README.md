@@ -3,7 +3,6 @@
 > Predicting residential sale prices using the **Ames Housing dataset** with feature engineering, stepwise AIC feature selection, full regression diagnostics, and ggplot2 visualizations.
 
 [![R](https://img.shields.io/badge/Language-R%204.3+-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
