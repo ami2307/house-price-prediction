@@ -1,0 +1,19 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Generated outputs (tracked selectively)
+data/housing_clean.rds
+data/housing_clean.csv
+outputs/models/
+
+# Keep plots and CSV results in git
+!outputs/plots/
+!outputs/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
